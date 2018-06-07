@@ -1,2 +1,2 @@
-# copa-do-mundo
+# Copa do Mundo
 Ranking mundial da FIFA.
